@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 1/13/2023 3:41:28 AM : Starting D:/CET REVIEWER/2020.3.5f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 13046.5439ms
+moved types parse time: 462ms
+candidates parse time : 3ms
+C# parse time         : 4319ms
+candidates check time : 205ms
+console write time    : 7ms
+
